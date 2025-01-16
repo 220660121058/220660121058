@@ -14,6 +14,7 @@
 <br>Pemograman Berbasis Web</br></h3>
 
 <h3 align="center">Bahasa dan Alat:</h3>
+<p align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nodejs,java,php,mysql,git,figma,laravel" />
     </a>
