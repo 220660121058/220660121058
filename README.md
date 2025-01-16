@@ -4,16 +4,16 @@
 
 </h1>
 
+
+<h1 align="center"><a>Mata Kuliah
+<br>Pemograman Berbasis Web</a></br></h1>
+
+
+<h5 align="center">Bahasa dan Alat:
 <div align="right">
     <a href="https://visitor-badge.laobi.icu/badge?page_id=220660121058.PBW-IF-VD">
         <img src="https://visitor-badge.laobi.icu/badge?page_id=220660121058.PBW-IF-VD&title=Dikunjungi" alt="Visitor Badge" />
     </a>
-
-<h1 align="center"><a>Mata Kuliah
-<br>Pemograman Berbasis Web</a></br><br></br></h1>
-
-
-<h5 align="center">Bahasa dan Alat:
 <p align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nodejs,java,php,mysql,git,figma,laravel" />
