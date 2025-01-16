@@ -4,7 +4,6 @@
 
 </h1>
 
-<h1>
 <div align="right">
     <a href="https://visitor-badge.laobi.icu/badge?page_id=220660121058.PBW-IF-VD">
         <img src="https://visitor-badge.laobi.icu/badge?page_id=220660121058.PBW-IF-VD&title=Dikunjungi" alt="Visitor Badge" />
@@ -13,16 +12,16 @@
 <h4 align="center">Mata Kuliah
 <br>Pemograman Berbasis Web</br></h4>
 
-<p align="center">
 
-**Alat dan Bahan:**
+<h5 align="center">Bahasa dan Alat:
+<p align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nodejs,java,php,mysql,git,figma,laravel" />
     </a>
 </p>
+</h5>
 
 
-</h1>
 
 | **Direktori**               | **Deskripsi**                                                                           |
 |-----------------------------|-----------------------------------------------------------------------------------------|
