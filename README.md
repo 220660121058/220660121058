@@ -41,8 +41,9 @@
 
 💬 Tanyakan kepada saya tentang **HTML, CSS, PHP... atau apa pun [di sini](https://github.com/220660121058/PBW-IF-VD/issues)**.
 
-<h3 align="center">(Sosial Media)</h3>
  </div>
+ 
+<h3 align="center">(Sosial Media)</h3>
  <div align="center"> 
 <a href="https://youtube.com/@MuhammadGhianzaAlGhifariUNSAP" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
