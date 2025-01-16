@@ -1,21 +1,19 @@
-<h1 align="Center">
+<h2 align="Center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&pause=1000&color=24F700&center=true&vCenter=true&width=435&lines=Hai+%F0%9F%91%8B+Saya+Muhammad+Ghianza+Al+Ghifari!" alt="Typing SVG" /></a>
-    <img src="https://www.google.com/imgres?q=logo%20unsap&imgurl=https%3A%2F%2Fpmb.unsap.ac.id%2Fwp-content%2Fuploads%2F2024%2F12%2FUNSAP-1024x1024.png&imgrefurl=https%3A%2F%2Funsap.ac.id%2F&docid=tI0PPVNLLGzFlM&tbnid=mBa1lEHbJqpL8M&vet=12ahUKEwiOxMbX2PqKAxWUe2wGHRRnFzYQM3oECBgQAA..i&w=1024&h=1024&hcb=2&ved=2ahUKEwiOxMbX2PqKAxWUe2wGHRRnFzYQM3oECBgQAA" alt="Coder Logo" width="400">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdjYiHLY_cjG_s7WjYkADqxJg1A8Q7H-p6QQ&s" alt="Coder Logo" width="400">
 
-</h1>
+</h2>
 
 <h1>
 <div align="right">
-    <a href="https://visitor-badge.laobi.icu/badge?page_id=VirzanPasaNugraha.PBW-IF-VA">
+    <a href="https://visitor-badge.laobi.icu/badge?page_id=220660121058.PBW-IF-VD">
         <img src="https://visitor-badge.laobi.icu/badge?page_id=220660121058.PBW-IF-VD&title=Dikunjungi" alt="Visitor Badge" />
     </a>
 
-<h2 align="center">Mata Kuliah
-<br>Pemograman Berbasis Web</br></h2>
+<h1 align="center">Mata Kuliah
+<br>Pemograman Berbasis Web</br></h1>
 
-<h3 align="center">Bahasa dan Alat:</h3>
-<p align="center">
-Menguasai :
+<h1 align="center">Bahasa dan Alat:</h1>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nodejs,java,php,mysql,git,figma,laravel" />
     </a>
@@ -61,7 +59,6 @@ Menguasai :
 
 </div>
 
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
 <table>
     <tr>
@@ -80,7 +77,7 @@ Menguasai :
         <td align="center">
             <img src="https://media4.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif?cid=6c09b952l2vhb7bq2qtc2wmlpzvrxsbbsji74hywrv79edci&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" 
                  alt="GIF Preview 2" 
-                 width="485" />
+                 width="385" />
         </td>
     </tr>
 </table>
