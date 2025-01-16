@@ -12,10 +12,10 @@
 
 <h4 align="center">Mata Kuliah
 <br>Pemograman Berbasis Web</br></h4>
-<br>
-</br>
-<h5 align="center">Bahasa dan Alat:</h5>
+
 <p align="center">
+
+**Alat dan Bahan:**
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nodejs,java,php,mysql,git,figma,laravel" />
     </a>
