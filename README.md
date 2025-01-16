@@ -2,6 +2,7 @@
     <a href="https://visitor-badge.laobi.icu/badge?page_id=220660121058.PBW-IF-VD">
         <img src="https://visitor-badge.laobi.icu/badge?page_id=220660121058.PBW-IF-VD&title=Dikunjungi" alt="Visitor Badge" />
     </a>
+</div>
 
 <h1 align="Center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&pause=1000&color=24F700&center=true&vCenter=true&width=435&lines=Hai+%F0%9F%91%8B+Saya+Muhammad+Ghianza+Al+Ghifari!" alt="Typing SVG" /></a>
