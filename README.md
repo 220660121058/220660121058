@@ -1,6 +1,6 @@
 <h2 align="Center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&pause=1000&color=24F700&center=true&vCenter=true&width=435&lines=Hai+%F0%9F%91%8B+Saya+Muhammad+Ghianza+Al+Ghifari!" alt="Typing SVG" /></a>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdjYiHLY_cjG_s7WjYkADqxJg1A8Q7H-p6QQ&s" alt="Coder Logo" width="400">
+    <img src="https://drive.google.com/file/d/1_oEb9D6P0RN-s35DWAZGGxxg3ncmD95i/view?usp=sharing" alt="Coder Logo" width="400">
 
 </h2>
 
