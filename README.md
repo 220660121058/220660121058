@@ -10,10 +10,10 @@
         <img src="https://visitor-badge.laobi.icu/badge?page_id=220660121058.PBW-IF-VD&title=Dikunjungi" alt="Visitor Badge" />
     </a>
 
-<h3 align="center">Mata Kuliah
-<br>Pemograman Berbasis Web</br></h3>
+<h4 align="center">Mata Kuliah
+<br>Pemograman Berbasis Web</br></h4>
 
-<h3 align="center">Bahasa dan Alat:</h3>
+<h4 align="center">Bahasa dan Alat:</h4>
 <p align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nodejs,java,php,mysql,git,figma,laravel" />
