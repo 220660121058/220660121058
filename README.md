@@ -9,8 +9,8 @@
         <img src="https://visitor-badge.laobi.icu/badge?page_id=220660121058.PBW-IF-VD&title=Dikunjungi" alt="Visitor Badge" />
     </a>
 
-<h2 align="center"><a>Mata Kuliah
-<br>Pemograman Berbasis Web</a></br></h2>
+<h1 align="center"><a>Mata Kuliah
+<br>Pemograman Berbasis Web</a></br><br></br></h1>
 
 
 <h5 align="center">Bahasa dan Alat:
@@ -78,7 +78,7 @@
         <td align="center">
             <img src="https://media4.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif?cid=6c09b952l2vhb7bq2qtc2wmlpzvrxsbbsji74hywrv79edci&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" 
                  alt="GIF Preview 2" 
-                 width="385" />
+                 width="285" />
         </td>
     </tr>
 </table>
@@ -91,6 +91,6 @@
 </div>
 <br>
 <p align="center">
-    &copy; 2024 Muhammad Ghianza Ghifari
+    &copy; 2024 Muhammad Ghianza Al Ghifari
 </p>
 
