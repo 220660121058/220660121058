@@ -34,14 +34,14 @@
 
                                                                                    
 
-**Catatan**: Tabel ini membantu mempermudah navigasi ke bagian-bagian penting dari proyek.
+**Catatan**: Tabel ini membantu untuk mempermudah navigasi ke bagian-bagian penting dari proyek.
 
  
 🌱 Progress **Finish**
 
 💬 Tanyakan kepada saya tentang **HTML, CSS, PHP... atau apa pun [di sini](https://github.com/220660121058/PBW-IF-VD/issues)**.
 
-<h3 align="left">Sosial Media:</h3>
+<h3 align="center">(Sosial Media)</h3>
  </div>
  <div align="center"> 
 <a href="https://youtube.com/@MuhammadGhianzaAlGhifariUNSAP" target="_blank">
@@ -76,7 +76,7 @@
         <td align="center">
             <img src="https://media4.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif?cid=6c09b952l2vhb7bq2qtc2wmlpzvrxsbbsji74hywrv79edci&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" 
                  alt="GIF Preview 2" 
-                 width="285" />
+                 width="485" />
         </td>
     </tr>
 </table>
