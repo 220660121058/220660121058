@@ -79,7 +79,7 @@
         <td align="center">
             <img src="https://media4.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif?cid=6c09b952l2vhb7bq2qtc2wmlpzvrxsbbsji74hywrv79edci&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" 
                  alt="GIF Preview 2" 
-                 width="385" />
+                 width="290" />
         </td>
     </tr>
 </table>
