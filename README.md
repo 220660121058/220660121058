@@ -68,11 +68,11 @@
         <td>
             <!-- GitHub Stats for Light Mode -->
             <a href="https://github.com/220660121058/github-readme-stats#gh-light-mode-only">
-                <img height="295" src="https://github-readme-stats.vercel.app/api?username=220660121058&show_icons=true&line_height=28&hide_border=true&card_width=347&theme=default#gh-light-mode-only" alt="M.GHIANZA_AL_GHIFARI's GitHub stats" />
+                <img height="315" src="https://github-readme-stats.vercel.app/api?username=220660121058&show_icons=true&line_height=28&hide_border=true&card_width=347&theme=default#gh-light-mode-only" alt="M.GHIANZA_AL_GHIFARI's GitHub stats" />
             </a>
             <!-- GitHub Stats for Dark Mode -->
             <a href="https://github.com/220660121058/github-readme-stats#gh-dark-mode-only">
-                <img height="295" src="https://github-readme-stats.vercel.app/api?username=220660121058&show_icons=true&line_height=28&hide_border=true&card_width=347&theme=dark&bg_color=000000#gh-dark-mode-only" alt="M.GHIANZA_AL_GHIFARI's GitHub stats" />
+                <img height="315" src="https://github-readme-stats.vercel.app/api?username=220660121058&show_icons=true&line_height=28&hide_border=true&card_width=347&theme=dark&bg_color=000000#gh-dark-mode-only" alt="M.GHIANZA_AL_GHIFARI's GitHub stats" />
             </a>
         </td>
         <!-- GIF Preview -->
